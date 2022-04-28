@@ -1,2 +1,2 @@
-# lab12 - Create Repository GitHub.com
+# lab12 - Create GitHub.com Repository 
 
